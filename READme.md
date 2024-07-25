@@ -12,7 +12,7 @@ Using available scRNA-seq data from cancer cell lines, how would you explore the
 
 <ins>**Cancer Cell Lines, Single-cell RNA sequencing (scRNA-seq), and potential therapies**</ins>  
 
-Cancer cell lines are used wideline in research, from testing potential therapies to better understanding a cancer's mechanisms. At the cellular level, cancer is an anomoly of cell division and regulation, and are often heterogenous. Traditional sequencing, or "bulk sequencing," gives us an average profile of cancer cells as a whole, but nuance is lost. Single-cell RNA sequencing data (scRNA-seq) provides more insightful data for cancer cells, capable of showing the genomic profile of individual cells via identifying RNA. This level of detail improves the research and creation of targeted therapies. 
+Cancer cell lines are used widely in research, from testing potential therapies to better understanding a cancer's mechanisms. At the cellular level, cancer is an anomoly of cell division and regulation, and is often genetically heterogenous. Traditional sequencing, or "bulk sequencing," gives us an average profile of cancer cells as a whole, but nuance is lost. Single-cell RNA sequencing data (scRNA-seq) provides more insightful data for cancer cells, capable of showing the genomic profile of individual cells via identifying RNA. This level of detail improves the research and creation of targeted therapies. 
 
 
 
