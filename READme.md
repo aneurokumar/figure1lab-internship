@@ -16,14 +16,12 @@ Using available scRNA-seq data from cancer cell lines, how would you explore the
 
 ### <ins>**Definitions of main concepts**</ins>  
 
-**Cancer, the use of cancer cell lines in research/therapies**
- At the cellular level, cancer is an anomoly of cell division, differentiation, and regulation. Cells have built in mechanisms to regulate their entire life cycle, and their failures result in seemingly endless proliferation, ignorance of surrounding cell signals, lack of self-induced death (apoptosis), and spreading to other healthy cells locally and throughout the body. [1] Cancer cells are often genetically heterogenous, rapid proliferation leading to mutations that lead to more rapid proliferation. A tumour can be composed of multiple cancerous cells with each cell having a different genetic makeup than its neighbors. Cancer drug treatments can be used to treat the abnormal mechanisms themselves.
- 
- Cancer cell lines are used widely in research, from testing potential therapies to better understanding a cancer's mechanisms.  
+**Cancer and the use of cancer cell lines in research/therapies**  
+At the cellular level, cancer is an anomoly of cell division, differentiation, and regulation. Cells have built in mechanisms to regulate their entire life cycle, and their failures result in seemingly endless proliferation, ignorance of surrounding cell signals, lack of self-induced death (apoptosis), and spreading to other healthy cells locally and throughout the body. [1] Cancer cells are often genetically heterogenous, rapid proliferation leading to mutations that lead to more rapid proliferation. A tumour can be composed of multiple cancerous cells with each cell having a different genetic makeup than its neighbors. Cancer drug treatments can be used to treat the abnormal mechanisms themselves.  
 
-<ins>**Cancer Cell Lines, Single-cell RNA sequencing (scRNA-seq), and potential therapies**</ins>  
+<ins>**Single-cell RNA sequencing (scRNA-seq), and its potential and potential therapies**</ins>  
 
- Traditional sequencing, or "bulk sequencing," gives us an average profile of cancer cells as a whole, but nuance is lost. Single-cell RNA sequencing data (scRNA-seq) provides more insightful data for cancer cells, capable of showing the genomic profile of individual cells via identifying RNA. This level of detail improves the research and creation of targeted therapies. 
+Traditional sequencing, or "bulk sequencing," gives us an average profile of cancer cells as a whole, but nuance is lost. Single-cell RNA sequencing data (scRNA-seq) provides more insightful data for cancer cells, capable of showing the genomic profile of individual cells via identifying RNA. This level of detail improves the research and creation of targeted therapies. 
 
 
  ## **Resources**  
