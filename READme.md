@@ -37,7 +37,7 @@ Traditional sequencing, or "bulk sequencing," gives us an average profile of can
 
 ## **Questions, ideas, and things to keep in mind**  
 - **Cancer cell lines:** Cancer cell lines have a lot of experimental caveats to them - mutations introduced via high number of passaging, poor GLP practices, consistency of maintenance due to number of people performing it and their skill levels, etc. In vitro experiments aren't always going to be representative of in vivo experiments.
-- **Data and what to look for:** Not having looked at the data or paper at this point, I don't know what format the data is in or what to look for in analysis. Dean mentioned resources [8] and [9] in the original LinkedIn post, so I'm keeping them in the resource list below and want to add a section in this memo about data analysis. These concepts came up while I was reading and might be worth looking into: c_opy number variation, epigenetic variation, extrachromosomal DNA distribution_
+- **Data and what to look for:** Not having looked at the data or paper at this point, I don't know what format the data is in or what to look for in analysis. Dean mentioned resources [8], [9], and [10] in the original LinkedIn post, so I'm keeping them in the resource list below and want to add a section in this memo about data analysis. These concepts came up while I was reading and might be worth looking into: c_opy number variation, epigenetic variation, extrachromosomal DNA distribution_
 - **Different disease, same therapies:** In [7], the resource mentioned evidence of VEGF is also upregulated in COVID-19 patients, meaning that bevacizumab _could_ be used to treat a different disease. I'm tempted to look more closely at the mechanisms of VEGF and HER2, but worried I might get too lost in the weeds before starting the paper. I have those resources bookmarked and can always come back to them when needed to add more detail. 
 
 
@@ -50,7 +50,9 @@ Traditional sequencing, or "bulk sequencing," gives us an average profile of can
 5. [VEGF as a Key Mediator of Angiogenesis in Cancer](https://karger.com/ocl/article-abstract/69/Suppl.%203/4/237877/VEGF-as-a-Key-Mediator-of-Angiogenesis-in-Cancer?redirectedFrom=fulltext)
 6. [Trastuzumab mechanism of action for HER2](https://go.drugbank.com/drugs/DB00072)
 7. [Bevacizumab mechanism of action for VEGF](https://go.drugbank.com/drugs/DB00112)
-
+8. [Tips for analyzing scRNAseq data from Fabian Theis' lab](https://www.sc-best-practices.org/preamble.html)
+9. [Video - scRNAseq preprocessing and quality control](https://www.youtube.com/watch?v=cmOlCTGX4Ik)
+10. [Video - RNA Integration and annotation](https://www.youtube.com/watch?v=FqG_O12oWR4)
 
 
 
