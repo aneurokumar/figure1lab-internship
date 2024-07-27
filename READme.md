@@ -24,8 +24,12 @@ At the cellular level, cancer is an anomoly of cell division, differentiation, a
 Traditional sequencing, or "bulk sequencing," gives us an average profile of cancer cells as a whole, but nuance is lost. Single-cell RNA sequencing data (scRNA-seq) provides more insightful data for cancer cells, capable of showing the genomic profile of individual cells via identifying RNA. This level of detail improves the research and creation of targeted therapies. 
 
 
+
+
  ## **Resources**  
 1.  [Cooper GM. The Cell: A Molecular Approach. 2nd edition. Sunderland (MA): Sinauer Associates; 2000. The Development and Causes of Cancer.](https://www.ncbi.nlm.nih.gov/books/NBK9963/#:~:text=Cancer%20cells%20typically%20display%20abnormalities%20in%20the%20mechanisms,that%20regulate%20normal%20cell%20proliferation%2C%20differentiation%2C%20and%20survival.)
+2. [HER 2: Biology, Detection, and Clinical Implications - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3242418/#:~:text=The%20HER2%20pathway%20has%20been%20described%20in%20systems,that%20affect%20various%20cellular%20functions%20%288%29%20%28Fig.%201%29.)
+3. [Definition of receptor tyrosine kinase](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/receptor-tyrosine-kinase#:~:text=reh%2DSEP%2Dter%20TY,movement%2C%20metabolism%2C%20and%20survival.)
 
 
 
