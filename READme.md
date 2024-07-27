@@ -10,7 +10,7 @@ Using available scRNA-seq data from cancer cell lines, how would you explore the
 - **Bevacizumab**: Targets VEGF and is used for a variety of cancers, including colorectal, lung, glioblastoma, breast, liver, and kidney cancer.
 
 <ins>Reformulated KSQ:</ins>  
-Cancer cell lines have been used to develop antibody therapies against specific cancers thanks to scRNAseq data. How can we explore a cancer cell lines' scRNAseq data to reveal their underlying anomalies related to cell growth, maturation, proliferation, differentiation, and survival? Are the same proteins or protein-mediated pathways present in other cancers, where we can apply the same therapies developed for HER2 and VEGF?  
+Cancer cell lines have been used to develop antibody therapies against specific cancers thanks to scRNAseq data. How can we explore a cancer cell lines' scRNAseq data to reveal their underlying anomalies related to cell growth, maturation, proliferation, differentiation, and survival? Are the same proteins or protein-mediated pathways present in other cancers, and if yes where we can apply the same therapies developed for HER2 and VEGF?  
 
 ## **Mini-Literature Review**  
 
