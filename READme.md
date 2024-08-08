@@ -12,6 +12,9 @@ Using available scRNA-seq data from cancer cell lines, how would you explore the
 <ins>Reformulated KSQ:</ins>  
 Cancer cell lines have been used to develop antibody therapies against specific cancers thanks to scRNAseq data. How can we explore a cancer cell lines' scRNAseq data to reveal their underlying anomalies related to cell growth, maturation, proliferation, differentiation, and survival? Are the same proteins or protein-mediated pathways present in other cancers, and if yes where we can apply the same therapies developed for HER2 and VEGF?  
 
+**Data Availability**  
+Raw and processed scRNA-seq data is available through the Broad Institute’s single cell portal (SCP542)  
+
 ## **Mini-Literature Review**  
 
 ### <ins>**Definitions of main concepts**</ins>  
